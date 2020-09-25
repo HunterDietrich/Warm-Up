@@ -18,4 +18,5 @@ while number < 5:
         print(f"{number} is even")
     elif number % 2 != 0:
         print(f"{number} is odd")
-
+    else:
+        print("Number is 0 or not 1-5.")
